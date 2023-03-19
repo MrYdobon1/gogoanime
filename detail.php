@@ -38,9 +38,9 @@
     <div class="row">
     <div class="col-7">
     <div class="card">
-              <img class = "img-responsive" src="" alt="Card image cap" width="">
+              <img class = "img-responsive" src="One-piece.jpg" alt="Card image cap" width="400" height="500">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                
               </div>
             </div>
     </div>
