@@ -11,7 +11,9 @@
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="#home">GogoAnime</a>
+      <a class="navbar-brand" href="#">
+    <img src="gambar/logo.png" width="90" height="35" class="d-inline-block align-top" alt="">
+  </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -32,14 +34,6 @@
     </nav>
     <!-- Navbar End -->
 
-    <!-- Logo -->
-    <div class="jumbotron" id="home">
-      <div class="container pt-4 mb-4">
-        <div class="text-center">
-          <img src="gambar/logo.png" class="img-md mb-4">
-        </div>
-      </div>
-    </div>
     
     <div class="container text-center">
   <!-- Stack the columns on mobile by making one full-width and the other half-width -->
