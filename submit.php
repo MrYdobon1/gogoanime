@@ -35,29 +35,30 @@
     </nav>
     <!-- Navbar End -->
 
-    <div class="row">
-    <div class="col-7">
-    <div class="card">
-              <img class = "img-responsive" src="One-piece.jpg" alt="Card image cap" width="400" height="500">
-              <div class="card-body">
-                
-              </div>
-            </div>
-    </div>
-    <div class="col-5">
-    <div class="card">
-                <p class="card-text">deskripsi</p>
-                <p class="card-text">genre</p>
-                <p class="card-text">release</p>
-                <p class="card-text">status</p>
-              </div>
-              <div class="d-grid gap-2 d-md-block">
-                    <button class="btn btn-primary" type="button">Edit</button>
-                    <button class="btn btn-primary" type="button">Delete</button>
-              </div>
-    </div>
+    <form>
+    <div class="form-group">
+    <label for="exampleFormControlTextarea1">Deskripsi</label>
+    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
   </div>
-</div>
+  <div class="form-group">
+  <label for="exampleInputEmail1" class="form-label">genre</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="form-group">
+  <label for="exampleInputEmail1" class="form-label">genre</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="form-group">
+  <label for="exampleInputEmail1" class="form-label">release</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="form-group">    
+  <label for="exampleInputEmail1" class="form-label">status</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+ 
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js" integrity="sha384-mQ93GR66B00ZXjt0YO5KlohRA5SY2XofN4zfuZxLkoj1gXtW8ANNCe9d5Y3eG5eD" crossorigin="anonymous"></script>
 
