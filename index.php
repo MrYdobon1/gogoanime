@@ -43,12 +43,18 @@
               <div class="card-body">
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
               </div>
+              <div class="d-grid gap-2 d-md-block">
+                    <button class="btn btn-primary" type="button">Button</button>
+              </div>
             </div>
           </div>
     <div class="col-6 col-md-4"> <div class="card">
               <img class="card-img-top" src="..." alt="Card image cap">
               <div class="card-body">
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              </div>
+              <div class="d-grid gap-2 d-md-block">
+                    <button class="btn btn-primary" type="button">Button</button>
               </div>
             </div>
           </div>
@@ -61,12 +67,8 @@
               <div class="card-body">
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
               </div>
-            </div>
-          </div>
-    <div class="col-6 col-md-4"> <div class="card">
-              <img class="card-img-top" src="..." alt="Card image cap">
-              <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <div class="d-grid gap-2 d-md-block">
+                    <button class="btn btn-primary" type="button">Button</button>
               </div>
             </div>
           </div>
@@ -74,6 +76,19 @@
               <img class="card-img-top" src="..." alt="Card image cap">
               <div class="card-body">
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              </div>
+              <div class="d-grid gap-2 d-md-block">
+                    <button class="btn btn-primary" type="button">Button</button>
+              </div>
+            </div>
+          </div>
+    <div class="col-6 col-md-4"> <div class="card">
+              <img class="card-img-top" src="..." alt="Card image cap">
+              <div class="card-body">
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              </div>
+              <div class="d-grid gap-2 d-md-block">
+                    <button class="btn btn-primary" type="button">Button</button>
               </div>
             </div>
           </div>
@@ -91,6 +106,9 @@
               <div class="card-body">
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
               </div>
+              <div class="d-grid gap-2 d-md-block">
+                    <button class="btn btn-primary" type="button">Button</button>
+              </div>
             </div>
           </div>
             
@@ -100,6 +118,9 @@
               <div class="card-body">
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
               </div>
+              <div class="d-grid gap-2 d-md-block">
+                    <button class="btn btn-primary" type="button">Button</button>
+              </div>
             </div>
           </div>
 
@@ -108,6 +129,9 @@
               <img class="card-img-top" src="..." alt="Card image cap">
               <div class="card-body">
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              </div>
+              <div class="d-grid gap-2 d-md-block">
+                    <button class="btn btn-primary" type="button">Button</button>
               </div>
             </div>
           </div>   
@@ -120,6 +144,9 @@
               <div class="card-body">
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
               </div>
+              <div class="d-grid gap-2 d-md-block">
+                    <button class="btn btn-primary" type="button">Button</button>
+              </div>
             </div>
           </div> 
           
@@ -130,6 +157,9 @@
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.
                 </p>
               </div>
+              <div class="d-grid gap-2 d-md-block">
+                    <button class="btn btn-primary" type="button">Button</button>
+              </div>
             </div>
           </div>
 
@@ -138,6 +168,9 @@
               <img class="card-img-top" src="..." alt="Card image cap">
               <div class="card-body">
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              </div>
+              <div class="d-grid gap-2 d-md-block">
+                    <button class="btn btn-primary" type="button">Button</button>
               </div>
             </div>
           </div>
