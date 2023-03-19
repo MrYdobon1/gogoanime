@@ -1,0 +1,22 @@
+body {
+    margin-top: 50px;
+    
+}
+
+.jumbotron img {
+    width: 35%;
+}
+
+section {
+    min-height: 420px;
+}
+
+footer {
+    min-height: 50px;
+    padding-top:12px;
+}
+.card{
+    width: 100%;
+    margin-bottom: 5px;
+    margin-top: 25px;
+}
