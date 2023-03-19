@@ -32,10 +32,11 @@
       </div>
     </nav>
     <!-- Navbar End -->
+   
     <div class="row">
     <div class="col-7">
     <div class="card">
-              <img class="card-img-top" src="..." alt="Card image cap">
+              <img class = "img-responsive" src="" alt="Card image cap" width="">
               <div class="card-body">
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
               </div>
@@ -43,7 +44,10 @@
     </div>
     <div class="col-5">
     <div class="card">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">deskripsi</p>
+                <p class="card-text">genre</p>
+                <p class="card-text">release</p>
+                <p class="card-text">status</p>
               </div>
     </div>
   </div>
